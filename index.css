@@ -19,7 +19,7 @@ font-family: "Open sans";
 }
 
 .proyect{
-    width: 350px;
+    width: 300px;
         height: 450px;
         border: solid;
     display: flex;
@@ -32,11 +32,12 @@ font-family: "Open sans";
 }
 @media(min-width:960px){
     .proyects{
+        margin-bottom: 20px;
         display: flex;
     }
 }
 .proyect:hover{
-    width: 352px;
+    width: 306px;
     height: 455px;
 }
 .proyect__img{
